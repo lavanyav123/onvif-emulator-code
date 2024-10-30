@@ -1,0 +1,13 @@
+{
+  "DeviceInformation": {
+    "Manufacturer": "YourCompany",
+    "Model": "ONVIFDevice",
+    "FirmwareVersion": "1.0.0",
+    "SerialNumber": "123456789",
+    "HardwareId": "001"
+  },
+  "OnvifServicePort": 8080,
+  "RTSPPort": 554,
+  "MulticastEnabled": false
+}
+
